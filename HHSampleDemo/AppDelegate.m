@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  HHSampleDemo
 //
-//  Created by vanke on 2020/5/7.
+//  Created by XXXX on 2020/5/7.
 //  Copyright © 2020 com. All rights reserved.
 //
 
